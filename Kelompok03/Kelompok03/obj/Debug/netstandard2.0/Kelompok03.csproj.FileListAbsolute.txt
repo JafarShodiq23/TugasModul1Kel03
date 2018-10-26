@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\bin\Debug\netstandard2.0\Kelompok03.deps.json
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\bin\Debug\netstandard2.0\Kelompok03.dll
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\bin\Debug\netstandard2.0\Kelompok03.pdb
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.dll
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.pdb
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.App.xaml.g.cs
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.LoginPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Kelompok03\Kelompok03\Kelompok03\obj\Debug\netstandard2.0\Kelompok03.SignUpPage.xaml.g.cs
